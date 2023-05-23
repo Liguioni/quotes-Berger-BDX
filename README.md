@@ -1,9 +1,9 @@
 # quotes-Berger-BDX
 
-Berger Luc,
-Thebault Raphaël,
-Massano Ismail,
-Djougoun Nassour
+Berger Luc : initiateur
+Thebault Raphaël : contributeur 1
+Massano Ismail : contributeur 3
+Djougoun Nassour : contributeur 2
 
 Groupe : BDX
 
